@@ -1,4 +1,4 @@
-package com.java.intensivkurs.fussballmanager;
+package chaosnetworkz.java.samples.soccermanager;
 
 import java.util.Random;
 
